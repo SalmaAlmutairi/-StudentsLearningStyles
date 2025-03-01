@@ -57,6 +57,12 @@ pip install -r requirements.txt
   - **CatBoost**: Best overall performance.
   - **KNN**: Moderate accuracy but sensitive to scaling.
   - **Decision Tree**: Overfitting issues.
+### 📊 ROC Curve for Model Comparison
+Below is the **ROC Curve Comparison** for **multiclass classification** using different models:
+
+![ROC Curve Comparison](https://github.com/user-attachments/assets/94935f57-64b3-4c76-9d47-a6bd071e8845)
+
+
 
 
 ## 📌 Future Improvements
