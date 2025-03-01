@@ -4,22 +4,21 @@
 ### This project applies Machine Learning techniques to classify students' learning styles (Visual, Auditory, Kinesthetic) based on responses to a VAK questionnaire. The aim is to develop a predictive model using the CatBoost algorithm to improve personalized learning experiences in education.
 ### By analyzing a dataset of 1,210 students, this study identifies patterns in learning preferences to assist educators in tailoring teaching strategies.
 
+## 📖 Table of Contents
+
+- [Project Overview](#-project-overview)
+- [Features](#-features)
+- [Installation Guide](#-installation-guide)
+- [Methodology](#-methodology)
+- [Results](#-results)
+- [Future Improvements](#-future-improvements)
+
 ## 🚀 Features
 - ✅ **Classification of student learning styles** (Visual, Auditory, Kinesthetic) using **CatBoost**
 - ✅ **Preprocessing of dataset**, handling missing values, feature encoding, and selection
 - ✅ **Machine Learning model training** and hyperparameter tuning
 - ✅ **Comparison of classification models** (CatBoost, Decision Tree, KNN)
 - ✅ **Performance evaluation using metrics** like Accuracy, Precision, Recall, and F1-score
-
-## 📁 Project Structure
-
-📁 **StudentsLearningStyles**  
-│── 📁 **notebooks** │── 📄 Learning_Styles_classification.ipynb  
-│── 📁 **data** │── 📄 contentSL_csv.csv  
-│── 📄 README.md  
-
-
-
 
 ## 📥 Installation Guide
 
@@ -65,6 +64,9 @@ pip install -r requirements.txt
 - Implement **Deep Learning** for better predictions.
 - Expand dataset for better generalization.
 - Deploy model as an **API** for educational platforms.
+
+
+
 
 
 
