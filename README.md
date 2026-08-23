@@ -20,25 +20,22 @@
 - ✅ **Comparison of classification models** (CatBoost, Decision Tree, KNN)
 - ✅ **Performance evaluation using metrics** like Accuracy, Precision, Recall, and F1-score
 
-## 📥 Installation Guide
+## ▶️ How to Run
 
-### 1️⃣ Clone the repository:
-```bash
-git clone https://github.com/SalmaAlmutairi/StudentsLearningStyles.git
-cd StudentsLearningStyles
-pip install -r requirements.txt
-```  
+This project was developed and tested using **Google Colab**.
 
-### 2️⃣ Download the Dataset
-- Place the dataset (`SL_csv.csv`) in the `data/` directory.
+### 1. Open the Notebook
+Open the `Learning_Styles_classification.ipynb` file in Google Colab.
 
-### 3️⃣ Run the Jupyter Notebook 
+### 2. Upload the Dataset
+Upload the dataset file:
 
-- **Jupyter Notebook:**
-  ```bash
-  jupyter notebook
+`contentSL_csv.csv`
 
-  Then open `Learning_Styles_classification.ipynb`.
+to the Colab session before running the notebook.
+
+### 3. Run the Notebook
+Run the notebook cells sequentially from top to bottom.
 
 
 ## 🧠 Methodology
