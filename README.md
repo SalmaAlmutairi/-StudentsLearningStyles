@@ -8,7 +8,7 @@
 
 - [Project Overview](#-project-overview)
 - [Features](#-features)
-- [Installation Guide](#-installation-guide)
+- [How to Run](#how-to-run)
 - [Methodology](#-methodology)
 - [Results](#-results)
 - [Future Improvements](#-future-improvements)
